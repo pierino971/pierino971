@@ -1,4 +1,7 @@
-## Hi there 👋
+## ❖ Greeetings whoever you are! ❖
+
+#### If you are reading this it means that you want to know what i do or in which repository i contribute. </p>Worry Not, I'll write all the important things down here, so sit back and read carefully
+# <p align="center">⬇︎</p>
 
 <!--
 **pierino971/pierino971** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
